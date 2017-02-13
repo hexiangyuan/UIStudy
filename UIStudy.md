@@ -155,3 +155,4 @@ icon 放在一个artboart 方便管理
 *       http://sketchcn.com/sketch-tips-tricks-1.html
 *      http://www.ui.cn/detail/209480.html
 *      http://www.ui.cn/detail/208115.html
+*      UI设计师需要常逛的设计网站 http://www.ui.cn/detail/196117.html
