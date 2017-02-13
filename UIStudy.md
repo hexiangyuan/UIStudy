@@ -30,6 +30,7 @@ iOS（原名 iPhone OS，自 iOS 4 后改名为 iOS）是苹果公司为移动�
 * 简约化设计
 * 无框设计
 * 你自己的设计想法
+* 2017年设计趋势大观http://www.ui.cn/detail/207980.html
 
 #### 分辨率
 * iPhone 7 iPhone 7S
