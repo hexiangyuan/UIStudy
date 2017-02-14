@@ -142,6 +142,7 @@ https://designcode.io/iosdesign-guidelines
 #### 应用结构
 *       APPICON 设计规格以及尺寸 设计技巧 
         *       iOS https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/
+        *     http://www.uisdc.com/icon-design-rules
 *       主页面（main screen）
 *       登陆界面 http://www.jianshu.com/p/02262677f437
 *       启动页面（launch screen or splash screen） http://wiki.jikexueyuan.com/project/material-design/patterns/launch-screens.html
