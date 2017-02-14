@@ -64,37 +64,67 @@ https://designcode.io/iosdesign-guidelines
 #### 关于控件
 ##### iOS  http://www.uisdc.com/ios9-interface-guidelinei-ui-elements
 *       UI 控件样式
-        *       文本框（Text） 
-        *       输入框（Edit） 
-        *       开关（Switch） 
-        *       按钮（Button） 
-        *       图片控件（ImageView） 
+        *       文本框（Text）
+        
+        *       输入框（Edit）
+        
+        *       开关（Switch）
+        
+        *       按钮（Button）
+        
+        *       图片控件（ImageView）
+        
         *       选项（checkbox）
+        
         *       进度（Progress）
+        
         *       选择（picker）
+        
         *       刷新（refresh）
-*      bar 
+        
+*      bar
+
         *       statusBar（状态栏）
+        
         *       navigationBar(导航栏)
+        
         *       tabBar（标签栏）
+        
         *       toolBars（工具栏）
+        
         *       searchBar(搜索栏)
+        
 *       UI Views
+
         *       alert
+        
         *       Action Sheets
+        
         *       Activity Views
+        
         *       Collections
+        
         *       Popovers
+        
         *       ScrollViews
+        
         *       ListView（列表）
+        
         *       下拉 刷新（LoadMore Refresh）
+        
 *       UI Controls
         *       buttons
+       
         *       Progress indicators 
+        
         *       Refresh Content Controls
+        
         *       Segmented Controls
+        
 *       补充
+
         *       swip （策划菜单）
+        
 ##### Android
 * 主题Theme
         *       colorPrimary 应用的主要暗色调，statusBarColor默认使用该颜色
