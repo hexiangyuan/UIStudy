@@ -43,7 +43,9 @@ iOS（原名 iPhone OS，自 iOS 4 后改名为 iOS）是苹果公司为移动�
 
 #### 关于长度问题
 
-* ppi
+* http://www.uisdc.com/designers-guide-to-dpi
+
+* ppi  http://www.shui-mai.com/2016/01/26/uishejijichukechengdpippi/
 * px 
 * pt
 * dpi
@@ -128,10 +130,14 @@ https://designcode.io/iosdesign-guidelines
         *       正文：14 sp 或 16 sp 标题：24 sp 或更大
 
 
-#### 基本变宽准则
-
+#### 基本准则
+* http://www.ui.cn/detail/33707.html
+* http://huaban.com/pins/295640533/
 *       iOS 
 *       Android http://wiki.jikexueyuan.com/project/material-design/layout/metrics-and-keylines.html
+
+#### sketch 
+* http://www.shui-mai.com/course/sketch/
 
 #### 应用结构
 *       APPICON 设计规格以及尺寸 设计技巧 
@@ -147,17 +153,19 @@ https://designcode.io/iosdesign-guidelines
 
 #### 切图
 icon 放在一个artboart 方便管理 
-
+* UI命名规则 http://www.shui-mai.com/2015/10/10/3337/
 * cutterman :http://www.cutterman.cn/zh/sketch/cutterman 
 * iOS http://www.jianshu.com/p/0d2430e4c9f8
 * Android
 
 #### 标注
 * zenplin
-* 
-
+* http://www.getmarkman.com/
 #### 技巧
 *       http://sketchcn.com/sketch-tips-tricks-1.html
 *      http://www.ui.cn/detail/209480.html
 *      http://www.ui.cn/detail/208115.html
 *      UI设计师需要常逛的设计网站 http://www.ui.cn/detail/196117.html
+
+#### 指定项目规范
+https://dribbble.com/shots/1721767-Style-Guide/attachments/276379
