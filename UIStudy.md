@@ -34,6 +34,8 @@ iOS（原名 iPhone OS，自 iOS 4 后改名为 iOS）是苹果公司为移动�
 * 2017年设计趋势大观http://www.ui.cn/detail/207980.html
 * 做好扁平化设计 http://cdc.tencent.com/2013/11/27/%E5%81%9A%E5%A5%BD%E6%89%81%E5%B9%B3%E5%8C%96%E8%AE%BE%E8%AE%A1%EF%BC%8D%E8%A7%86%E8%A7%89%E7%AF%87/
 * 扁平化的一股清流 Smartisan OS http://www.smartisan.com/os/#/beauty
+
+
 #### 分辨率
 * iPhone 7 iPhone 7S
 * Android 720p 1080p 2k
