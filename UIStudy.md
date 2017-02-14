@@ -29,7 +29,8 @@ iOS（原名 iPhone OS，自 iOS 4 后改名为 iOS）是苹果公司为移动�
 * UI 设计里怎样区别扁平化 (Flat) 和拟物化 (Skeumorphism) 两种风格？https://www.zhihu.com/question/20945423
 * 拟物化设计 http://www.shejidaren.com/40-ios-icons-design.html
 * 扁平化设计 https://www.zhihu.com/question/20881633  （特点）http://www.shejidaren.com/flat-design-point.html
-* 无框设计  http://www.25xt.com/appdesign/14271.html（代表产品instagram）
+* 无框设计  http://www.25xt.com/appdesign/14271.html     
+（代表产品instagram）
 * 你自己的设计想法
 * 2017年设计趋势大观http://www.ui.cn/detail/207980.html
 * 做好扁平化设计 http://cdc.tencent.com/2013/11/27/%E5%81%9A%E5%A5%BD%E6%89%81%E5%B9%B3%E5%8C%96%E8%AE%BE%E8%AE%A1%EF%BC%8D%E8%A7%86%E8%A7%89%E7%AF%87/
