@@ -197,6 +197,6 @@ icon 放在一个artboart 方便管理
 *      http://www.ui.cn/detail/209480.html
 *      http://www.ui.cn/detail/208115.html
 *      UI设计师需要常逛的设计网站 http://www.ui.cn/detail/196117.html
-
+*      图标绘画 http://www.uisdc.com/icon-design-rules
 #### 指定项目规范
 https://dribbble.com/shots/1721767-Style-Guide/attachments/276379
