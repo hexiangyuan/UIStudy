@@ -26,132 +26,110 @@ iOS（原名 iPhone OS，自 iOS 4 后改名为 iOS）是苹果公司为移动�
 ##### windows Phone(份额太小) 忽略不计啦
 
 #### 设计趋势
-* UI 设计里怎样区别扁平化 (Flat) 和拟物化 (Skeumorphism) 两种风格？https://www.zhihu.com/question/20945423
-* 拟物化设计 http://www.shejidaren.com/40-ios-icons-design.html
-* 扁平化设计 https://www.zhihu.com/question/20881633  （特点）http://www.shejidaren.com/flat-design-point.html
-* 无框设计  http://www.25xt.com/appdesign/14271.html     
+*      UI 设计里怎样区别扁平化 (Flat) 和拟物化 (Skeumorphism) 两种风格？https://www.zhihu.com/question/20945423
+*      拟物化设计 http://www.shejidaren.com/40-ios-icons-design.html
+*      扁平化设计 https://www.zhihu.com/question/20881633  （特点）http://www.shejidaren.com/flat-design-point.html
+*      无框设计  http://www.25xt.com/appdesign/14271.html     
 （代表产品instagram）
-* 你自己的设计想法
-* 2017年设计趋势大观http://www.ui.cn/detail/207980.html
-* 做好扁平化设计 http://cdc.tencent.com/2013/11/27/%E5%81%9A%E5%A5%BD%E6%89%81%E5%B9%B3%E5%8C%96%E8%AE%BE%E8%AE%A1%EF%BC%8D%E8%A7%86%E8%A7%89%E7%AF%87/
-* 扁平化的一股清流 Smartisan OS http://www.smartisan.com/os/#/beauty
+*      你自己的设计想法
+*      2017年设计趋势大观http://www.ui.cn/detail/207980.html
+*      做好扁平化设计 http://cdc.tencent.com/2013/11/27/%E5%81%9A%E5%A5%BD%E6%89%81%E5%B9%B3%E5%8C%96%E8%AE%BE%E8%AE%A1%EF%BC%8D%E8%A7%86%E8%A7%89%E7%AF%87/
+*      扁平化的一股清流 Smartisan OS http://www.smartisan.com/os/#/beauty
 
 
 #### 分辨率
-* iPhone 7 iPhone 7S
-* Android 720p 1080p 2k
+*      Phone 7 iPhone 7S
+*      Android 720p 1080p 2k
 
 #### 关于长度问题
 
-* http://www.uisdc.com/designers-guide-to-dpi
+*      http://www.uisdc.com/designers-guide-to-dpi
+*      ppi  http://www.shui-mai.com/2016/01/26/uishejijichukechengdpippi/
+*      px 
+*      pt
+*      dpi
+*      sp
+*      为什么要用1倍图开发
 
-* ppi  http://www.shui-mai.com/2016/01/26/uishejijichukechengdpippi/
-* px 
-* pt
-* dpi
-* sp
-* 为什么要用1倍图开发
-
-* iOS @1X @2X @3X 图的意义
-* Android hdpi mdpi xhdpi xxhdpi xxxhpi 
+*      iOS @1X @2X @3X 图的意义
+*      Android hdpi mdpi xhdpi xxhdpi xxxhpi 
 
 https://designcode.io/iosdesign-guidelines
-#### APP ICON 
-* iOS size 规格
 
-* Android size 规格
+#### APP ICON 
+
+*      iOS size 规格
+
+*      Android size 规格
 
 #### 关于控件
+
 ##### iOS  http://www.uisdc.com/ios9-interface-guidelinei-ui-elements
-*       UI 控件样式
-        *       文本框（Text）
-        
-        *       输入框（Edit）
-        
-        *       开关（Switch）
-        
-        *       按钮（Button）
-        
-        *       图片控件（ImageView）
-        
-        *       选项（checkbox）
-        
-        *       进度（Progress）
-        
-        *       选择（picker）
-        
-        *       刷新（refresh）
+
+*      UI 控件样式
+        *     文本框（Text）        
+        *     输入框（Edit）
+        *     开关（Switch）        
+        *     按钮（Button）       
+        *     图片控件（ImageView）        
+        *     选项（checkbox）
+        *     进度（Progress）
+        *     选择（picker）
+        *     刷新（refresh）
         
 *      bar
-
-        *       statusBar（状态栏）
-        
-        *       navigationBar(导航栏)
-        
-        *       tabBar（标签栏）
-        
-        *       toolBars（工具栏）
-        
-        *       searchBar(搜索栏)
+        *     statusBar（状态栏）
+        *     navigationBar(导航栏)
+        *     tabBar（标签栏）
+        *     toolBars（工具栏）
+        *     searchBar(搜索栏)
         
 *       UI Views
-
-        *       alert
-        
-        *       Action Sheets
-        
-        *       Activity Views
-        
-        *       Collections
-        
-        *       Popovers
-        
-        *       ScrollViews
-        
-        *       ListView（列表）
-        
-        *       下拉 刷新（LoadMore Refresh）
+        *     alert
+        *     Action Sheets
+        *     Activity Views
+        *     Collections
+        *     Popovers
+        *     ScrollViews
+        *     ListView（列表）
+        *     下拉 刷新（LoadMore Refresh）
         
 *       UI Controls
-        *       buttons
-       
-        *       Progress indicators 
-        
-        *       Refresh Content Controls
-        
-        *       Segmented Controls
+        *     buttons
+        *     Progress indicators 
+        *     Refresh Content Controls
+        *     Segmented Controls
         
 *       补充
-
-        *       swip （策划菜单）
+        *     swip （策划菜单）
         
 ##### Android
-* 主题Theme
-        *       colorPrimary 应用的主要暗色调，statusBarColor默认使用该颜色
-        *       colorPrimaryDark 应用的主要色调，actionBar（导航栏 nvBar）默认使用该颜色
-        *       colorAccent 一般控件的选种效果默认采用该颜色
-* view
-        *       Text http://wiki.jikexueyuan.com/project/material-design/components/text-fields.html
-        *       button
-        *       Switch
-        *       Expand/collapse
-        *       menu
-        *       Picker
-        *       Progress
-        *       Selection controls
-        *       Slide
-        *       Toast SnackBar（知道就好了）
-        *       Tabs  http://wiki.jikexueyuan.com/project/material-design/components/tabs.html
-*       卡片（Card）http://wiki.jikexueyuan.com/project/material-design/components/cards.html
+*      主题Theme
+        *     colorPrimary 应用的主要暗色调，statusBarColor默认使用该颜色
+        *     colorPrimaryDark 应用的主要色调，actionBar（导航栏 nvBar）默认使用该颜色
+        *     colorAccent 一般控件的选种效果默认采用该颜色
+*      view
+        *     Text http://wiki.jikexueyuan.com/project/material-design/components/text-fields.html
+        *     button
+        *     Switch
+        *     Expand/collapse
+        *     menu
+        *     Picker
+        *     Progress
+        *     Selection controls
+        *     Slide
+        *     Toast SnackBar（知道就好了）
+        *     Tabs  http://wiki.jikexueyuan.com/project/material-design/components/tabs.html
+*      卡片（Card）http://wiki.jikexueyuan.com/project/material-design/components/cards.html
 
-*       分割线的使用 Android http://wiki.jikexueyuan.com/project/material-design/components/dividers.html
+*      分割线的使用 Android http://wiki.jikexueyuan.com/project/material-design/components/dividers.html
 
-*       列表List 
-        *       http://wiki.jikexueyuan.com/project/material-design/components/lists.html
+*      列表List 
+        *     http://wiki.jikexueyuan.com/project/material-design/components/lists.html
 
-*       选择控制
-        *       http://wiki.jikexueyuan.com/project/material-design/components/selection-controls.html
-*       刷新行为 http://wiki.jikexueyuan.com/project/material-design/patterns/swipe-to-refresh.html
+*      选择控制
+        *     http://wiki.jikexueyuan.com/project/material-design/components/selection-controls.html
+*      刷新行为 http://wiki.jikexueyuan.com/project/material-design/patterns/swipe-to-refresh.html
 
 #### 关于文字的属性（字体 大小 颜色）
 *       iOS The general rule is 44pt for buttons and 12pt for small text, 17pt for body text and 20pt+ for titles.
